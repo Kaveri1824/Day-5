@@ -1,6 +1,7 @@
-file = open("Demo.txt", "w")
+file = open("Demo.txt", "k")
 
-file.write("Welcome to Python")
+
+file.write("Welcome to World")
 
 file.close()
 
