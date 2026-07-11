@@ -1,1 +1,8 @@
-<h1>"This is sub branch"</h1>
+file = open("Demo.txt", "k")
+
+
+file.write("Welcome to World")
+
+file.close()
+
+print("Data written successfully")
