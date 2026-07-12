@@ -1,7 +1,7 @@
 file = open("Demo.txt", "k")
 
 
-file.write("Welcome to World")
+file.write("Welcome to India")
 
 file.close()
 
